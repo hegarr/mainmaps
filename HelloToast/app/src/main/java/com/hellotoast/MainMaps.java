@@ -1,11 +1,3 @@
-| Nama      | Mohamad Hegar Sukmana Wibowo |
-| --------- | -----------                  |
-| NIM       | 312010332                    |
-| Kelas     | TI.22.A.3                    |
-| Tugas     | Pemrograman Moile 1          |
-
-# MainMaps.java
-```python
 package com.hellotoast;
 
 import android.content.Intent;
@@ -47,8 +39,3 @@ public class MainMaps extends FragmentActivity implements OnMapReadyCallback {
             startActivity(intent);
     }
 }
-
-```
-## Output
-[gambar](output/maps1.png)
-[gambar](output/maps2.jpg)
