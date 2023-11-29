@@ -50,5 +50,5 @@ public class MainMaps extends FragmentActivity implements OnMapReadyCallback {
 
 ```
 ## Output
-[gambar](output/maps1.png)
-[gambar](output/maps2.jpg)
+![maps1](https://github.com/hegarr/mainmaps/assets/145521387/25e5aa60-51b7-4232-a570-191e53eeabd5)
+![maps2](https://github.com/hegarr/mainmaps/assets/145521387/d0e921ac-32cc-4745-ac17-fb935331efea)
